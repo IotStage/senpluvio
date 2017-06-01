@@ -1,0 +1,4 @@
+services:
+#    aws_monitoring.example:
+#        class: AWS\MonitoringBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
